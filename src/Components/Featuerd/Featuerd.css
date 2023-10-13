@@ -1,0 +1,9 @@
+.line-dec{
+    width: 30px;
+    height: 5px;
+    background-color: #3a8bcd;
+}
+.card-title{
+   height: 30px;
+   overflow: hidden;
+}
